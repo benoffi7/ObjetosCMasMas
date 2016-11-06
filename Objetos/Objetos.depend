@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478474141 source:c:\users\gonzalo\documents\github\pruebautn\objetos\src\casa.cpp
+	"Casa.h"
+
+1478474165 c:\users\gonzalo\documents\github\pruebautn\objetos\include\casa.h
+	<iostream>
+
+1478474097 source:c:\users\gonzalo\documents\github\pruebautn\objetos\main.cpp
+	<iostream>
+	"Casa.h"
+	"stdio.h"
+
